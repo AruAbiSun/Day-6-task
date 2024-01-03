@@ -1,0 +1,1 @@
+this task i create personal details using class method and calculate uber price, movies and circle.
